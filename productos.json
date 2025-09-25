@@ -3,17 +3,17 @@
     "id": 1,
     "nombre": "Bandas elásticas de resistencia",
     "descripcion": "Kit bandas diferentes resistencias.",
-    "precio": 25.000,
+    "precio": 25000,
     "stock": 10,
     "imagen": "img/whey.jpg",
-    "categoria": "proteinas"
+    "categoria": "accesorios"
   },
   {
     "id": 2,
     "nombre": "Guantes de gimnasio",
     "descripcion": "Guantes antideslizantes y resistentes.",
     "precio": 45000,
-    "stock": 15,
+    "stock": 5,
     "imagen": "img/guantes.jpg",
     "categoria": "accesorios"
   }
