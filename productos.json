@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Proteína Whey 1Kg",
+    "descripcion": "Suplemento proteico premium.",
+    "precio": 120000,
+    "stock": 10,
+    "imagen": "img/whey.jpg",
+    "categoria": "proteinas"
+  },
+  {
+    "id": 2,
+    "nombre": "Guantes de gimnasio",
+    "descripcion": "Guantes antideslizantes y resistentes.",
+    "precio": 45000,
+    "stock": 15,
+    "imagen": "img/guantes.jpg",
+    "categoria": "accesorios"
+  }
+]

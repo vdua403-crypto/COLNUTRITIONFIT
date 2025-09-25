@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>COLNUTRITIONFIT | Carrito</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body onload="mostrarCarrito()">
+  <header>
+    <h1>Carrito de Compras</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="catalogo.html">Catálogo</a>
+      <a href="carrito.html">Carrito</a>
+      <a href="pagos.html">Envíos y Pagos</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+  </header>
+
+  <main class="carrito">
+    <h2>Productos en tu carrito</h2>
+    <div id="carrito-contenido"></div>
+    <p id="subtotal"></p>
+    <p><strong>Nota:</strong> El costo de envío se calcula aparte según la ciudad de destino.</p>
+    <button onclick="enviarWhatsApp()">Finalizar Compra por WhatsApp</button>
+  </main>
+
+  <footer>
+    <p>© 2025 COLNUTRITIONFIT</p>
+  </footer>
+</body>
+</html>
