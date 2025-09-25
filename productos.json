@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "nombre": "Proteína Whey 1Kg",
-    "descripcion": "Suplemento proteico premium.",
-    "precio": 120000,
+    "nombre": "Bandas elásticas de resistencia",
+    "descripcion": "Kit bandas diferentes resistencias.",
+    "precio": 25.000,
     "stock": 10,
     "imagen": "img/whey.jpg",
     "categoria": "proteinas"
